@@ -1,0 +1,13 @@
+f = open("bye.txt","r")
+line = f.readline()
+# print(line)
+# line1 = f.readline()
+# print(line1,end="")
+# line2 = f.readline()
+# print(line2, end="")
+# line3 = f.readline()
+# print(line3,end="")
+while(line != ""):
+    print(line,end="")
+    line = f.readline()
+f.close()

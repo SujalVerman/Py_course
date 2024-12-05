@@ -1,0 +1,4 @@
+python is a programming language or user friendly language which contains many libraries 
+hello.py is the exe path of python
+hello world 
+python
